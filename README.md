@@ -20,6 +20,7 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 
 ## Horários
 Giras de Desenvolvimento - Chegada até as 18
+
 Giras Abertas - Chega até as 17:30
 
 ## Giras de desenvolvimento
