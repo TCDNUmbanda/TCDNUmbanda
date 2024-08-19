@@ -25,9 +25,11 @@ Giras Abertas - Chega até as 17:30
 
 ## Giras de desenvolvimento
 Com o objetivo de que todos tenham o conhecimento de forma direta e equalizada, antes das giras de desenvolvimento estamos nos reunindo mais cedo nos dias de Gira de desenvolvimento, para explicar conceitos, deveres, pontos específicos da casa e tirar eventuais dúvidas.
+
 Além disse a gira de desenvolvimento é o momento dos dirigentes e entidades chefe dividirem o conhecimento e passar ainda mais instruções, evitem ao máximo faltar nesses dias.
 
 ## Materiais Complementares
+
 Aqui estão todos os materiais para estudos mais profundos sobre a umbanda.
-Escolha um tópico e explore o que temos de material
-O material poderá ser encontrado [aqui](Estudo) 
+
+Escolha um tópico e explore o que temos de material que poderá ser encontrado [aqui](Estudo) 
