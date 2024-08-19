@@ -11,13 +11,12 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
  - Calça branca (atentar a não ser fina demais e/ou transparente)
  - Guia das 7 linhas (pode ser encomendada com o Roni ou fazer a sua - Mais informações na cartilha)
  - Bibliografia inicial recomendada
-	- [AutoConhecimento](LiteraturaInicial\1-AutoConhecimento.pdf) 
-	- [Guia do praticante de Umbanda](LiteraturaInicial\2-GuiaPraticanteUmbanda) 
- 	- [Auto Conhecimento](LiteraturaInicial\1-AutoConhecimento.pdf) 
- 	- [Umbanda Dentro do Terreiro](LiteraturaInicial\3-UmbandaDentroTerreiro-Resumo.pdf) 
- 	- [Orientação aos Cambonos](LiteraturaInicial\4-OrientacaoCambonos.pdf) 
-  	- [Glossário](LiteraturaInicial\5-Glossario.pdf) 
-  	- [Teologia da Umbanda](LiteraturaInicial\6-TeologiaUmbanda.pdf) 
+	- [AutoConhecimento](LiteraturaInicial/1-AutoConhecimento.pdf) 
+	- [Guia do praticante de Umbanda](LiteraturaInicial/2-GuiaPraticanteUmbanda) 
+ 	- [Umbanda Dentro do Terreiro](LiteraturaInicial/3-UmbandaDentroTerreiro-Resumo.pdf) 
+ 	- [Orientação aos Cambonos](LiteraturaInicial/4-OrientacaoCambonos.pdf) 
+  	- [Glossário](LiteraturaInicial/5-Glossario.pdf) 
+  	- [Teologia da Umbanda](LiteraturaInicial/6-TeologiaUmbanda.pdf) 
 
 ## Horários
 Giras de Desenvolvimento - Chegada até as 18
