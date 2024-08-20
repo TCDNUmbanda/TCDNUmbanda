@@ -19,8 +19,9 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
   	- [Teologia da Umbanda](LiteraturaInicial/6-TeologiaUmbanda.pdf) 
 
 ## Horários
-Giras de Desenvolvimento - Chegada até as 18
-Giras Abertas - Chega até as 17:30
+Giras de Desenvolvimento - Chegada até as 18:00
+
+Giras Abertas - Chegada até as 17:30
 
 ## Giras de desenvolvimento
 Com o objetivo de que todos tenham o conhecimento de forma direta e equalizada, antes das giras de desenvolvimento estamos nos reunindo mais cedo nos dias de Gira de desenvolvimento, para explicar conceitos, deveres, pontos específicos da casa e tirar eventuais dúvidas.
